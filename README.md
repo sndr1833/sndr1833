@@ -1,12 +1,24 @@
+# **MSc Sandra**  *Early Career Ocean Scientist*
+
+**Current affiliation** 
+- Graduate Program in Biological Sciences, National Autonomous University of Mexico
+
+**Deep sea related networks:** 
+- Deep Ocean Observing Strategy  _(DOERS)_
+- Crustal Ocean Biosphere Research Accelerator _(COBRA FELLOW 2023)_
+
+## About me
+
+Hi, I'm Sandra
+
+
+
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://d2zmi9say0r1yj.cloudfront.net/OceanImageBank_RichardBarnden_12.jpg">
  <source media="(prefers-color-scheme: light)" srcset="https://d2zmi9say0r1yj.cloudfront.net/OceanImageBank_RichardBarnden_12.jpg">
  <img alt="YOUR-ALT-TEXT" src="https://d2zmi9say0r1yj.cloudfront.net/OceanImageBank_RichardBarnden_12.jpg">
 </picture>
 
-## About me
-
-Hi, I'm Sandra
 
 <details open>
 <summary>Education</summary>
