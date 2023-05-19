@@ -10,7 +10,7 @@
 
 ## About me
 
-Hi, I'm Sandra
+Hi, I'm Sandra and this guy below is a shrimp.
 
 
 
