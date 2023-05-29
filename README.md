@@ -1,5 +1,7 @@
 # **MSc Sandra**  
 ### *Early Career Ocean Scientist*
+**Current affiliation** 
+- Graduate Program in Biological Sciences, National Autonomous University of Mexico
 
 <link rel="stylesheet" type="text/css" href="style.css">
 
@@ -53,7 +55,3 @@
 ## References
 Available upon request
 
-
-
-**Current affiliation** 
-- Graduate Program in Biological Sciences, National Autonomous University of Mexico
