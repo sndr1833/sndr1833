@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="style.css">
+
 # **MSc Sandra**  
 ### *Early Career Ocean Scientist*
 
