@@ -1,47 +1,67 @@
 # **MSc Sandra**  
 ### *Early Career Ocean Scientist*
 
+
+## Contact Information
+- Email: your.email@example.com
+- Website: [example.com](https://www.example.com)
+- LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/yourname)
+- GitHub: [github.com/yourusername](https://www.github.com/yourusername)
+
+## Education
+- Ph.D. in Ecology, University Name, 2024
+- M.S. in Ecology Science, University Name, 2018
+- B.S. in Biology, University Name, 2015
+ 
+## Research Interests
+- Crustacean Taxonomy 
+- Deep sea
+- Ecology of fisheries
+
+## Experience
+### Research Assistant, University/Company Name, Year - Present
+- Conducting research in the field of XYZ, focusing on ABC.
+- Collaborating with a team of researchers to develop innovative solutions.
+- Publishing research findings in peer-reviewed journals and presenting at conferences.
+
+### Intern, Company Name, Year
+- Assisted in a research project on XYZ, contributing to data collection and analysis.
+- Conducted literature reviews and synthesized research findings.
+- Prepared reports and presentations to communicate research outcomes.
+
+## Publications
+1. Your Name, Co-Author Name. "Title of Paper." *Journal Name*, Volume(Issue), Year.
+2. Your Name, Co-Author Name. "Title of Paper." *Conference Name*, Year.
+3. Your Name, Co-Author Name. "Title of Paper." *Journal Name*, Volume(Issue), Year.
+
+## Skills
+- Programming Languages: Python, Java, C++
+- Data Analysis: R, MATLAB, SQL
+- Machine Learning: TensorFlow, Scikit-learn
+- Statistical Analysis: SPSS, SAS
+- Research Methodology: Experimental Design, Data Collection, Data Visualization
+
+## Awards and Honors
+- Outstanding Research Paper Award, Conference Name, Year
+- Scholarship for Academic Excellence, University Name, Year
+
+## Professional Memberships
+- Member, Deep Ocean Observing Strategy  _(DOERS)_
+- Member, SCrustal Ocean Biosphere Research Accelerator _(COBRA FELLOW 2023)_
+
+## References
+Available upon request
+
+
+
 **Current affiliation** 
 - Graduate Program in Biological Sciences, National Autonomous University of Mexico
 
-**Deep sea related networks:** 
-- Deep Ocean Observing Strategy  _(DOERS)_
-- Crustal Ocean Biosphere Research Accelerator _(COBRA FELLOW 2023)_
-
-## About me
-
-Hi, I'm Sandra and this guy below is a shrimp.
 
 
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://d2zmi9say0r1yj.cloudfront.net/OceanImageBank_RichardBarnden_12.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://d2zmi9say0r1yj.cloudfront.net/OceanImageBank_RichardBarnden_12.jpg">
- <img alt="YOUR-ALT-TEXT" src="https://d2zmi9say0r1yj.cloudfront.net/OceanImageBank_RichardBarnden_12.jpg">
-</picture>
 
-
-<details open>
-<summary>Education</summary>
-
-| Year  | Degree |
-|-----:|---------------|
-|     2024 | Ecology              |
-|     2018 | Ecology              |
-|     2015 | Biology             |
-
- </details>
  
- 
-## Interests
-
-| Degree | Title |
-|-----:|---------------|
-|    * | Crustacean Taxonomy              |
-|    * | Ecology of fisheries              |
-|    *  |  Deep sea             |
-
-
 
 <!-- TO DO: add more details about me later -->
 
