@@ -1,0 +1,111 @@
+/* Global styles */
+body {
+  font-family: Arial, sans-serif;
+  color: #333;
+  line-height: 1.5;
+}
+
+h1 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+p {
+  margin-bottom: 12px;
+}
+
+a {
+  color: #337ab7;
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: disc;
+  margin-left: 20px;
+}
+
+/* Header section */
+header {
+  background-color: #f5f5f5;
+  padding: 20px;
+  text-align: center;
+}
+
+header h1 {
+  color: #333;
+  margin-top: 0;
+}
+
+/* Contact Information section */
+.contact-info {
+  margin-bottom: 20px;
+}
+
+/* Education and Experience section */
+.section {
+  margin-bottom: 20px;
+}
+
+.section h2 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.section .item {
+  margin-bottom: 12px;
+}
+
+/* Publications section */
+.publications {
+  margin-bottom: 20px;
+}
+
+.publications ol {
+  margin-left: 0;
+  padding-left: 20px;
+}
+
+.publications li {
+  margin-bottom: 8px;
+}
+
+/* Skills section */
+.skills {
+  margin-bottom: 20px;
+}
+
+.skills ul {
+  margin-left: 0;
+  padding-left: 20px;
+}
+
+.skills li {
+  margin-bottom: 8px;
+}
+
+/* Awards section */
+.awards {
+  margin-bottom: 20px;
+}
+
+.awards ul {
+  margin-left: 0;
+  padding-left: 20px;
+}
+
+.awards li {
+  margin-bottom: 8px;
+  font-style: italic;
+}
+
+/* References section */
+.references {
+  font-style: italic;
+}
