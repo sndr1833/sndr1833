@@ -12,9 +12,9 @@
 - GitHub: [github.com/yourusername](https://www.github.com/yourusername)
 
 ## Education
-- Ph.D. in Ecology, University Name, 2024
-- M.S. in Ecology Science, University Name, 2018
-- B.S. in Biology, University Name, 2015
+- Ph.D. in Ecology, National Autonomous University of Mexico, 2024
+- M.S. in Ecology, National Autonomous University of Mexico, 2018
+- B.S. in Biology, National Autonomous University of Mexico, 2015
  
 ## Research Interests
 - Crustacean Taxonomy 
