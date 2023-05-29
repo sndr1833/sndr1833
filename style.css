@@ -1,111 +1,107 @@
 /* Global styles */
 body {
-  font-family: Arial, sans-serif;
-  color: #333;
-  line-height: 1.5;
+  /* Styles for the body element */
 }
 
 h1 {
-  font-size: 24px;
-  font-weight: bold;
-  margin-bottom: 10px;
+  /* Styles for the h1 element */
 }
 
 h2 {
-  font-size: 20px;
-  font-weight: bold;
-  margin-bottom: 8px;
+  /* Styles for the h2 element */
 }
 
 p {
-  margin-bottom: 12px;
+  /* Styles for the p element */
 }
 
 a {
-  color: #337ab7;
-  text-decoration: none;
+  /* Styles for the a element */
 }
 
 ul {
-  list-style-type: disc;
-  margin-left: 20px;
+  /* Styles for the ul element */
 }
 
 /* Header section */
 header {
-  background-color: #f5f5f5;
-  padding: 20px;
-  text-align: center;
+  /* Styles for the header section */
 }
 
 header h1 {
-  color: #333;
-  margin-top: 0;
+  /* Styles for the h1 element within the header section */
 }
 
 /* Contact Information section */
 .contact-info {
-  margin-bottom: 20px;
+  /* Styles for the contact-info section */
 }
 
 /* Education and Experience section */
-.section {
-  margin-bottom: 20px;
+.education {
+  /* Styles for the education section */
 }
 
-.section h2 {
-  font-size: 18px;
-  margin-bottom: 10px;
+.education h2 {
+  /* Styles for the h2 element within the education section */
 }
 
-.section .item {
-  margin-bottom: 12px;
+.education .item {
+  /* Styles for the item class within the education section */
+}
+
+.experience {
+  /* Styles for the experience section */
+}
+
+.experience h2 {
+  /* Styles for the h2 element within the experience section */
+}
+
+.experience .item {
+  /* Styles for the item class within the experience section */
 }
 
 /* Publications section */
 .publications {
-  margin-bottom: 20px;
+  /* Styles for the publications section */
 }
 
 .publications ol {
-  margin-left: 0;
-  padding-left: 20px;
+  /* Styles for the ol element within the publications section */
 }
 
 .publications li {
-  margin-bottom: 8px;
+  /* Styles for the li element within the publications section */
 }
 
 /* Skills section */
 .skills {
-  margin-bottom: 20px;
+  /* Styles for the skills section */
 }
 
 .skills ul {
-  margin-left: 0;
-  padding-left: 20px;
+  /* Styles for the ul element within the skills section */
 }
 
 .skills li {
-  margin-bottom: 8px;
+  /* Styles for the li element within the skills section */
 }
 
 /* Awards section */
 .awards {
-  margin-bottom: 20px;
+  /* Styles for the awards section */
 }
 
 .awards ul {
-  margin-left: 0;
-  padding-left: 20px;
+  /* Styles for the ul element within the awards section */
 }
 
 .awards li {
-  margin-bottom: 8px;
-  font-style: italic;
+  /* Styles for the li element within the awards section */
 }
 
 /* References section */
 .references {
-  font-style: italic;
+  /* Styles for the references section */
 }
