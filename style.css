@@ -70,4 +70,57 @@ header h1 {
 
 .experience h3 {
   font-size: 18px;
-  margin-bottom: 10px
+  margin-bottom: 10px;
+}
+
+.experience .item {
+  margin-bottom: 12px;
+}
+
+/* Publications section */
+.publications {
+  margin-bottom: 20px;
+}
+
+.publications ol {
+  margin-left: 0;
+  padding-left: 20px;
+}
+
+.publications li {
+  margin-bottom: 8px;
+}
+
+/* Skills section */
+.skills {
+  margin-bottom: 20px;
+}
+
+.skills ul {
+  margin-left: 0;
+  padding-left: 20px;
+}
+
+.skills li {
+  margin-bottom: 8px;
+}
+
+/* Awards section */
+.awards {
+  margin-bottom: 20px;
+}
+
+.awards ul {
+  margin-left: 0;
+  padding-left: 20px;
+}
+
+.awards li {
+  margin-bottom: 8px;
+  font-style: italic;
+}
+
+/* References section */
+.references {
+  font-style: italic;
+}
