@@ -58,18 +58,3 @@ Available upon request
 
 **Current affiliation** 
 - Graduate Program in Biological Sciences, National Autonomous University of Mexico
-
-
-
-
-
- 
-
-<!-- TO DO: add more details about me later -->
-
-
-
----
-> Nature is a whole
-
-— Neil deGrasse Tyson
