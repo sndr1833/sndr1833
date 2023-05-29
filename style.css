@@ -48,64 +48,26 @@ header h1 {
   margin-bottom: 20px;
 }
 
-/* Education and Experience section */
-.section {
+/* Education section */
+.education {
   margin-bottom: 20px;
 }
 
-.section h2 {
+.education h3 {
   font-size: 18px;
   margin-bottom: 10px;
 }
 
-.section .item {
-  margin-bottom: 12px;
-}
-
-/* Publications section */
-.publications {
+/* Research Interests section */
+.interests {
   margin-bottom: 20px;
 }
 
-.publications ol {
-  margin-left: 0;
-  padding-left: 20px;
-}
-
-.publications li {
-  margin-bottom: 8px;
-}
-
-/* Skills section */
-.skills {
+/* Experience section */
+.experience {
   margin-bottom: 20px;
 }
 
-.skills ul {
-  margin-left: 0;
-  padding-left: 20px;
-}
-
-.skills li {
-  margin-bottom: 8px;
-}
-
-/* Awards section */
-.awards {
-  margin-bottom: 20px;
-}
-
-.awards ul {
-  margin-left: 0;
-  padding-left: 20px;
-}
-
-.awards li {
-  margin-bottom: 8px;
-  font-style: italic;
-}
-
-/* References section */
-.references {
-  font-style: italic;
-}
+.experience h3 {
+  font-size: 18px;
+  margin-bottom: 10px
